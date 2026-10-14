@@ -1,0 +1,4 @@
+dataset,sample_usage,n_samples,n_valid_predictions,n_exact_matches,exact_match_accuracy,valid_output_rate,mean_tanimoto_valid_only,mean_tanimoto_failure_penalized,mean_seconds_per_sample,median_seconds_per_sample,total_inference_seconds,n_inference_errors
+BioVista_OCSR,fixed_public_nonwildcard_subset,100,87,72,0.72,0.87,0.9606812470739413,0.835792684954329,1.208737016999985,1.102957049998622,120.87370169999849,0
+XN,exploratory,3,3,3,1.0,1.0,1.0,1.0,1.3398863999997654,1.292700899999545,4.019659199999296,0
+XN,pilot,1,1,1,1.0,1.0,1.0,1.0,1.1287945999993099,1.1287945999993099,1.1287945999993099,0

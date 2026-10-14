@@ -1,0 +1,7 @@
+dataset,sample_usage,evaluation_status,count
+BioVista_OCSR,fixed_public_nonwildcard_subset,exact_match,72
+BioVista_OCSR,fixed_public_nonwildcard_subset,postprocessing_error,3
+BioVista_OCSR,fixed_public_nonwildcard_subset,unresolved_group,10
+BioVista_OCSR,fixed_public_nonwildcard_subset,valid_but_incorrect,15
+XN,exploratory,exact_match,3
+XN,pilot,exact_match,1
